@@ -1,0 +1,228 @@
+@media(max-width: 1024px){
+    .navbar-nav {
+        font-size: 12px;
+        margin-left: 5px;
+    }
+    .banner h1 {
+        font-size: 40px;
+    }
+    .title p{
+        text-transform: capitalize;
+        font-size: 14px;
+        padding: 5px 0px;
+    }
+    .highted {
+        min-height: 85vh;
+    }
+    .info {
+        padding: 50px 0px;
+    }
+    .info_list {
+        margin: 0;
+        margin-bottom: 30px;
+    }
+    .list_info {
+        width: 80%;
+    }
+    .list_info p{
+       font-size: 14px;
+    }
+    .mid_title {
+        padding: 20px 0px;
+    }
+    .icon_menu {
+        padding: 50px 0px;
+    }
+    .btn_view {
+        margin: 30px 0px;
+    }
+    .iphone {
+        transform: translate(-30%, 0%);
+    }
+    .iphone img{
+        width: 88%;
+    }
+    .box_detail_one {
+        top: 13%;
+        left: 29%;
+    }
+    .box_detail_two {
+        top: 48%;
+        left: 20%;
+    }
+    .box_detail_three {
+        bottom: 5%;
+        left: 29%;
+    }
+    .box_detail_four {
+        top: 13%;
+        right: 29%;
+    }
+    .box_detail_five {
+        top: 48%;
+        right: 20%;
+    }
+    .box_detail_six {
+        bottom: 5%;
+        right: 29%;
+    }
+    .number_items h1 {
+        font-size: 50px;
+    }
+    .number_items h3 {
+        font-size: 14px;
+    }
+    .from_info {
+        padding: 30px 0px 30px 0px;
+        margin: 10px 0px;
+    }
+    .submite {
+        width: 100%;
+    }
+    .manu_icon {
+        top: 50%;
+        left: 9%;
+        transform: translate(-15%, -50% );
+    }
+    .feedback {
+        margin: 30px 0px;
+    }
+    .comment_icon {
+        right: 40%;
+        transform: translate(-40%, 77%);
+    }
+    .footer_contact:hover .arrow {
+        left: 83%;
+    }
+}
+@media(max-width: 768px){
+    .btc {
+        width: 100%;
+        text-align: center;
+    }
+    .top_header p{     
+        font-size: 12px;
+    }
+    .top_list ul li a{  
+        font-size: 12px;
+    }
+    .banner h1 {
+        font-size: 30px;
+    }
+    .users_info h5, .users_info h6 {
+        font-size: 14px;
+    }
+    .btn_joined {
+        font-size: 14px;
+    }
+    .btn_contact {
+        font-size: 14px;
+    }
+    .title h1 {
+        font-size: 28px;
+    }
+    .feedback_comment {
+        padding: 30px 0px;
+    }
+    .icon_menu h3 {
+        font-size: 24px;
+    }
+    .icon_menu {
+        padding: 35px 0px;
+    }
+    .mobile{
+        display: none;
+    }
+    .phone_list {
+        padding: 0;
+        width: 90%;
+    }
+    .circel_img {
+        width: 30% ;
+        margin: auto;
+    }
+    .box_detail_two {
+        left: 10%;
+    }
+    .box_detail_five {
+        right: 10%;
+    }
+    .donwload_opt{
+        width: 100%;
+    }
+    .menu_items ul {
+        margin: 0;
+        padding: 0px 10px;
+        width: 100%;
+    }
+    .menu_text {
+        margin: 0; 
+        padding: 0;
+        padding: 20px;
+    }
+
+    .manu_icon {
+        top: 93%;
+        left: 73%;
+        transform: translate(-8%, -50% );
+    }
+    .footer_contact:hover .arrow {
+        left: 75%;
+    }
+}
+@media(max-width: 425px){
+    .phone_list {
+        width: 100%;
+    }
+    .banner h1 {
+        font-size: 26px;
+    }
+    .info {
+        padding: 30px 0px;
+    }
+    .icon_menu {
+        padding: 25px 0px;
+    }
+    .title h1 {
+        font-size: 24px;
+    }
+    .manu_icon {
+        top: 64%;
+        left: 5%;
+        transform: translate(-12%, -46% );
+    }
+    .menu_items ul {
+        margin: auto;
+        width: 70%;
+    }
+    .comment_icon {
+        right: 23%;
+    }
+    .footer_items {
+        margin: 40px 0;
+    }
+    .contact {
+        margin: 50px 0;
+    }
+    .footer_items p{
+        margin-top: 10px;
+    }
+    .footer_contact:hover .arrow {
+        left: 80%;
+    }
+    .email_from{
+        padding-bottom: 70px;
+    }
+    .last_menu ul {
+        display: inherit;
+    }
+    .copy_right p {
+        margin: 0;
+    }
+    .us_contact{
+        padding-bottom: 10px;
+    }
+}
+@media(max-width: 425px){
+    
+}
